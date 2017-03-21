@@ -1,36 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GatDetails>
+  <GatCode Code="10">
+    <GatName>गंगामाई कारखाना</GatName>
+  </GatCode>
+  <GatCode Code="11">
+    <GatName>ज्ञानेश्वर कारखाना</GatName>
+  </GatCode>
   <GatCode Code="12">
-    <GatName>राहु</GatName>
+    <GatName>कळमनुरी</GatName>
   </GatCode>
-  <GatCode Code="13">
-    <GatName>पारगाव</GatName>
+  <GatCode Code="1">
+    <GatName>का.सा.पुर्व</GatName>
   </GatCode>
-  <GatCode Code="14">
-    <GatName>रांजणगाव सांडस</GatName>
+  <GatCode Code="2">
+    <GatName>का.सा.पश्चिम</GatName>
   </GatCode>
-  <GatCode Code="15">
-    <GatName>हवेली</GatName>
+  <GatCode Code="3">
+    <GatName>अंबड</GatName>
   </GatCode>
-  <GatCode Code="16">
-    <GatName>खेड</GatName>
+  <GatCode Code="4">
+    <GatName>धनसावंगी</GatName>
   </GatCode>
-  <GatCode Code="17">
-    <GatName>श्रीगोंदा</GatName>
+  <GatCode Code="5">
+    <GatName>तिर्थपुरी</GatName>
   </GatCode>
-  <GatCode Code="18">
+  <GatCode Code="6">
+    <GatName>कु.पिंपळगाव</GatName>
+  </GatCode>
+  <GatCode Code="7">
+    <GatName>राणी ऊचेगाव</GatName>
+  </GatCode>
+  <GatCode Code="8">
+    <GatName>कारला</GatName>
+  </GatCode>
+  <GatCode Code="9">
     <GatName>गेटकेन</GatName>
-  </GatCode>
-  <GatCode Code="19">
-    <GatName>खामगाव</GatName>
-  </GatCode>
-  <GatCode Code="20">
-    <GatName>तळेगाव ढमढेरे</GatName>
-  </GatCode>
-  <GatCode Code="1083">
-    <GatName>शिक्रापूर</GatName>
-  </GatCode>
-  <GatCode Code="1389">
-    <GatName>कर्जत</GatName>
   </GatCode>
 </GatDetails>
