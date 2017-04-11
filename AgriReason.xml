@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ReasonDetails>
+  <ReasonCode Code="1">
+    <Reason>बेणे</Reason>
+  </ReasonCode>
+  <ReasonCode Code="2">
+    <Reason>पाण्या अभावी</Reason>
+  </ReasonCode>
+  <ReasonCode Code="3">
+    <Reason>चा-यासाठी</Reason>
+  </ReasonCode>
+  <ReasonCode Code="4">
+    <Reason>अन्यतरेणे</Reason>
+  </ReasonCode>
+  <ReasonCode Code="5">
+    <Reason>.</Reason>
+  </ReasonCode>
+  <ReasonCode Code="6">
+    <Reason>.</Reason>
+  </ReasonCode>
+  <ReasonCode Code="7">
+    <Reason>.</Reason>
+  </ReasonCode>
+  <ReasonCode Code="8">
+    <Reason>.</Reason>
+  </ReasonCode>
+  <ReasonCode Code="9">
+    <Reason>.</Reason>
+  </ReasonCode>
+  <ReasonCode Code="10">
+    <Reason>.</Reason>
+  </ReasonCode>
+  <ReasonCode Code="11">
+    <Reason>.</Reason>
+  </ReasonCode>
+  <ReasonCode Code="12">
+    <Reason>.</Reason>
+  </ReasonCode>
+  <ReasonCode Code="13">
+    <Reason>.</Reason>
+  </ReasonCode>
+  <ReasonCode Code="14">
+    <Reason>.</Reason>
+  </ReasonCode>
+  <ReasonCode Code="15">
+    <Reason>.</Reason>
+  </ReasonCode>
+  <ReasonCode Code="16">
+    <Reason>.</Reason>
+  </ReasonCode>
+</ReasonDetails>
