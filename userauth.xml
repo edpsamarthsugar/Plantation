@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <users>
+  <loginid id="44445">
+    <username>-</username>
+    <password />
+    <level>1</level>
+  </loginid>
   <loginid id="9507">
     <username>-</username>
     <password>sir1</password>
@@ -75,6 +80,11 @@
     <password>krn1</password>
     <level>1</level>
   </loginid>
+  <loginid id="3108">
+    <username>-</username>
+    <password>3108</password>
+    <level>3</level>
+  </loginid>
   <loginid id="582">
     <username>-</username>
     <password>582</password>
@@ -99,5 +109,10 @@
     <username>-</username>
     <password>50003</password>
     <level>2</level>
+  </loginid>
+  <loginid id="3136">
+    <username>-</username>
+    <password>9696</password>
+    <level>3</level>
   </loginid>
 </users>
