@@ -2307,7 +2307,7 @@
       <VillageName>भोसा(परभणी)</VillageName>
     </VillageCode>
     <VillageCode Code="750">
-      <VillageName>धोंडराई (गेवराई)</VillageName>
+      <VillageName>धोंडराई(गेवराई)--बंद कोड</VillageName>
     </VillageCode>
     <VillageCode Code="751">
       <VillageName>गोमलवाडा</VillageName>
@@ -6781,6 +6781,9 @@
     </VillageCode>
     <VillageCode Code="2456">
       <VillageName>विवेक नगर</VillageName>
+    </VillageCode>
+    <VillageCode Code="2457">
+      <VillageName>एरंडगाव (गेवराई)</VillageName>
     </VillageCode>
   </GatCode>
   <GatCode Code="10">

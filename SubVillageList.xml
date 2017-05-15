@@ -4605,7 +4605,7 @@
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="750">
-      <VillageName>धोंडराई (गेवराई)</VillageName>
+      <VillageName>धोंडराई(गेवराई)--बंद कोड</VillageName>
       <SubVillageCode Code="1">
         <SubVillageName>-</SubVillageName>
       </SubVillageCode>
@@ -13552,6 +13552,12 @@
     </VillageCode>
     <VillageCode Code="2456">
       <VillageName>विवेक नगर</VillageName>
+      <SubVillageCode Code="1">
+        <SubVillageName>-</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="2457">
+      <VillageName>एरंडगाव (गेवराई)</VillageName>
       <SubVillageCode Code="1">
         <SubVillageName>-</SubVillageName>
       </SubVillageCode>
