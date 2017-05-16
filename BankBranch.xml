@@ -1,0 +1,732 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bank>
+  <BankCode Code="1">
+    <BankName>जालना जि.म.स.बँक लि.</BankName>
+    <BranchCode Code="1">
+      <BranchName>जालना जि.म.स.बँक लि.,शा.अंबड</BranchName>
+    </BranchCode>
+    <BranchCode Code="2">
+      <BranchName>जालना जि.म.स.बँक लि.,शा.अंबड मा.या.</BranchName>
+    </BranchCode>
+    <BranchCode Code="3">
+      <BranchName>जालना जि.म.स.बँक लि.,शा.चिंचखेड</BranchName>
+    </BranchCode>
+    <BranchCode Code="4">
+      <BranchName>जालना जि.म.स.बँक लि.,शा.जामखेड</BranchName>
+    </BranchCode>
+    <BranchCode Code="5">
+      <BranchName>जालना जि.म.स.बँक लि.,शा.रोहीलागड</BranchName>
+    </BranchCode>
+    <BranchCode Code="6">
+      <BranchName>जालना जि.म.स.बँक लि.,शा.ताड हादगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="7">
+      <BranchName>जालना जि.म.स.बँक लि.,शा. लोणार भायगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="9">
+      <BranchName>जालना जि.म.स.बँक लि.,शा. शहापुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="10">
+      <BranchName>जालना जि.म.स.बँक लि.,शा.गोन्दी</BranchName>
+    </BranchCode>
+    <BranchCode Code="11">
+      <BranchName>जालना जि.म.स.बँक लि.,शा.पाथरवाला बु.</BranchName>
+    </BranchCode>
+    <BranchCode Code="12">
+      <BranchName>जालना जि.म.स.बँक लि.,शा. शहागड</BranchName>
+    </BranchCode>
+    <BranchCode Code="13">
+      <BranchName>जालना जि.म.स.बँक लि.,शा.वडीगोद्री</BranchName>
+    </BranchCode>
+    <BranchCode Code="15">
+      <BranchName>जालना जि.म.स.बँक लि.,शा. तिर्थपुरी</BranchName>
+    </BranchCode>
+    <BranchCode Code="16">
+      <BranchName>जालना जि.म.स.बँक लि.,शा.अंतरवाली टेंभी</BranchName>
+    </BranchCode>
+    <BranchCode Code="17">
+      <BranchName>जालना जि.म.स.बँक लि.,शा. मंगरुळ</BranchName>
+    </BranchCode>
+    <BranchCode Code="19">
+      <BranchName>जालना जि.म.स.बँक लि.,शा. कु,पिंपळगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="20">
+      <BranchName>जालना जि.म.स.बँक लि.,शा.राणी उंचेगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="21">
+      <BranchName>जालना जि.म.स.बँक लि.,शा. रांजणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="22">
+      <BranchName>जालना जि.म.स.बँक लि.,शा. यावलपिप्री</BranchName>
+    </BranchCode>
+    <BranchCode Code="23">
+      <BranchName>जालना जि.म.स.बँक लि.,शा.जिरडगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="24">
+      <BranchName>जालना जि.म.स.बँक लि.,शा.पाणेवाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="25">
+      <BranchName>जालना जि.म.स.बँक लि.,शा. घनसावंगी</BranchName>
+    </BranchCode>
+    <BranchCode Code="26">
+      <BranchName>जालना जि.म.स.बँक लि.,शा.अंकुशनगर</BranchName>
+    </BranchCode>
+    <BranchCode Code="27">
+      <BranchName>जालना जि.म.स.बँक लि.,शा.गोलापांगरी</BranchName>
+    </BranchCode>
+    <BranchCode Code="28">
+      <BranchName>जालना जि.म.स.बँक लि.,शा.वाकुळनी</BranchName>
+    </BranchCode>
+    <BranchCode Code="30">
+      <BranchName>जालना जि.म.स.बँक लि.,शा. कुंभारझरी</BranchName>
+    </BranchCode>
+    <BranchCode Code="31">
+      <BranchName>जालना जि.म.स.बँक लि.,शा. जाफ्राबाद</BranchName>
+    </BranchCode>
+    <BranchCode Code="32">
+      <BranchName>जालना जि.म.स.बँक लि.,शा. वरुड बु.</BranchName>
+    </BranchCode>
+    <BranchCode Code="36">
+      <BranchName>जालना जि.म.स.बँक लि.,शा. जुना जालना</BranchName>
+    </BranchCode>
+    <BranchCode Code="37">
+      <BranchName>जालना जि.म.स.बँक लि.,शा.संकनपुरी</BranchName>
+    </BranchCode>
+    <BranchCode Code="38">
+      <BranchName>जालना जि.म.स.बँक लि.,शा.परतुर-शहर</BranchName>
+    </BranchCode>
+    <BranchCode Code="39">
+      <BranchName>जालना जि.म.स.बँक लि.,शा.परतुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="40">
+      <BranchName>जालना जि.म.स.बँक लि.,शा.श्रेष्टी</BranchName>
+    </BranchCode>
+    <BranchCode Code="41">
+      <BranchName>जालना जि.म.स.बँक लि.,शा.आष्टी</BranchName>
+    </BranchCode>
+    <BranchCode Code="42">
+      <BranchName>जालना जि.म.स.बँक लि.,शा. दहीफळ खंदारे</BranchName>
+    </BranchCode>
+    <BranchCode Code="43">
+      <BranchName>जालना जि.म.स.बँक लि.,शा. वाटुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="44">
+      <BranchName>जालना जि.म.स.बँक लि.,शा. मंठा</BranchName>
+    </BranchCode>
+    <BranchCode Code="45">
+      <BranchName>जालना जि.म.स.बँक लि.,शा. तळणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="46">
+      <BranchName>जालना जि.म.स.बँक लि.,शा.सायगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="47">
+      <BranchName>जालना जि.म.स.बँक लि.,शा.अंबा</BranchName>
+    </BranchCode>
+    <BranchCode Code="49">
+      <BranchName>बीड जि.म.स.बँक लि.,शा.राजेगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="117">
+      <BranchName>जालना जि.म.स.बँक लि</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="2">
+    <BankName>समर्थ सहकारी बँक</BankName>
+    <BranchCode Code="70">
+      <BranchName>Unpaid</BranchName>
+    </BranchCode>
+    <BranchCode Code="72">
+      <BranchName>समर्थ सहकारी बँक लि.,जालना</BranchName>
+    </BranchCode>
+    <BranchCode Code="99">
+      <BranchName>समर्थ सहकारी बँक, अंकुशनगर</BranchName>
+    </BranchCode>
+    <BranchCode Code="101">
+      <BranchName>समर्थ सहकारी बँक, तिर्थपुरी</BranchName>
+    </BranchCode>
+    <BranchCode Code="102">
+      <BranchName>समर्थ सहकारी बँक, कु.पिपळगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="103">
+      <BranchName>समर्थ सहकारी बँक, घनसावंगी</BranchName>
+    </BranchCode>
+    <BranchCode Code="127">
+      <BranchName>समर्थ सहकारी बँक, अंबड</BranchName>
+    </BranchCode>
+    <BranchCode Code="130">
+      <BranchName>समर्थ सहकारी बँक,रामनगर</BranchName>
+    </BranchCode>
+    <BranchCode Code="131">
+      <BranchName>समर्थ सहकारी बँक, रांजणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="145">
+      <BranchName>समर्थ सहकारी बँक, राजुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="146">
+      <BranchName>समर्थ सहकारी बँक, बदनापुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="147">
+      <BranchName>समर्थ सहकारी बँक,</BranchName>
+    </BranchCode>
+    <BranchCode Code="148">
+      <BranchName>समर्थ सहकारी बँक,</BranchName>
+    </BranchCode>
+    <BranchCode Code="181">
+      <BranchName>समर्थ सहकारी बँक, जाफ्राबाद</BranchName>
+    </BranchCode>
+    <BranchCode Code="182">
+      <BranchName>समर्थ सहकारी बँक, मंठा</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="3">
+    <BankName>एस.बी.आय</BankName>
+    <BranchCode Code="50">
+      <BranchName>एस.बी.आय शा.वडीगोद्री</BranchName>
+    </BranchCode>
+    <BranchCode Code="51">
+      <BranchName>एस.बी.आय.शा.तिर्थपुरी</BranchName>
+    </BranchCode>
+    <BranchCode Code="53">
+      <BranchName>बँक आँफ महाराष्ट्र शा.कु,पिंपळगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="56">
+      <BranchName>बँक आँफ महाराष्ट्रा घनसावंगी</BranchName>
+    </BranchCode>
+    <BranchCode Code="57">
+      <BranchName>बँक आँफ महाराष्ट्रा रांजणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="61">
+      <BranchName>सिंडीकेट बँक जांबसमर्थ</BranchName>
+    </BranchCode>
+    <BranchCode Code="69">
+      <BranchName>महाराष्ट्र ग्रामीण बँक शा.अंबड</BranchName>
+    </BranchCode>
+    <BranchCode Code="128">
+      <BranchName>एस.बी.आय,शाखा परभणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="140">
+      <BranchName>एस.बी.आय, शाखा-जालना रोड बीड</BranchName>
+    </BranchCode>
+    <BranchCode Code="152">
+      <BranchName>स्टेट बँक ऑफ इंडीया शाखा -बोरी</BranchName>
+    </BranchCode>
+    <BranchCode Code="153">
+      <BranchName>स्टेट बँक ऑफ इंडीया शाखा -मानवत</BranchName>
+    </BranchCode>
+    <BranchCode Code="160">
+      <BranchName>एस.बी.आय, परभणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="169">
+      <BranchName>स्टेट बँक ऑफ इंडीया शाखा ,अंबड</BranchName>
+    </BranchCode>
+    <BranchCode Code="188">
+      <BranchName>एस.बी.आय,</BranchName>
+    </BranchCode>
+    <BranchCode Code="194">
+      <BranchName>एस.बी.आय,हर्सुल</BranchName>
+    </BranchCode>
+    <BranchCode Code="199">
+      <BranchName>एस.बी.आय, पैठण</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="4">
+    <BankName>बुलढाणा अरबन बँक को.आँफ</BankName>
+    <BranchCode Code="106">
+      <BranchName>बुलढाणा अरबन बँक को.आँफ,अंबड</BranchName>
+    </BranchCode>
+    <BranchCode Code="107">
+      <BranchName>बुलढाणा अरबन बँक को.आँफ, कु.पिपंळगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="116">
+      <BranchName>बुलढाणा अरबन बँक को.आँफ, बिडकीन</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="5">
+    <BankName>स्टेट बँक आँफ हैद्राबाद.</BankName>
+    <BranchCode Code="52">
+      <BranchName>एस.बी.एच शा.शहागड</BranchName>
+    </BranchCode>
+    <BranchCode Code="104">
+      <BranchName>स्टेट बँक आँफ हैद्राबाद.,</BranchName>
+    </BranchCode>
+    <BranchCode Code="105">
+      <BranchName>स्टेट बँक आँफ हैद्राबाद.,</BranchName>
+    </BranchCode>
+    <BranchCode Code="133">
+      <BranchName>स्टेट बँक आँफ हैद्राबाद.,शाखा दैठणा</BranchName>
+    </BranchCode>
+    <BranchCode Code="144">
+      <BranchName>स्टेट बँक आँफ हैद्राबाद.,</BranchName>
+    </BranchCode>
+    <BranchCode Code="151">
+      <BranchName>स्टेट बँक आँफ हैद्राबाद.शाखा मानवत.</BranchName>
+    </BranchCode>
+    <BranchCode Code="154">
+      <BranchName>स्टेट बँक आँफ हैद्राबाद.परभणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="161">
+      <BranchName>स्टेट बँक आँफ हैद्राबाद., गंगापुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="163">
+      <BranchName>स्टेट बँक आँफ हैद्राबाद.शाखा नवा मोंढा परभणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="166">
+      <BranchName>स्टेट बँक आँफ हैद्राबाद शाखा एरंडेश्वर</BranchName>
+    </BranchCode>
+    <BranchCode Code="178">
+      <BranchName>स्टेट बँक आँफ हैद्राबाद-कांचनवाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="179">
+      <BranchName>स्टेट बँक आँफ हैद्राबाद.इसारवाडी</BranchName>
+    </BranchCode>
+    <BranchCode Code="191">
+      <BranchName>स्टेट बँक आँफ हैद्राबाद., फुलंब्री</BranchName>
+    </BranchCode>
+    <BranchCode Code="197">
+      <BranchName>स्टेट बँक आँफ हैद्राबाद- फुलंब्री</BranchName>
+    </BranchCode>
+    <BranchCode Code="200">
+      <BranchName>स्टेट बँक आँफ हैद्राबाद., पैठण</BranchName>
+    </BranchCode>
+    <BranchCode Code="203">
+      <BranchName>स्टेट बँक आँफ हैद्राबाद., बिडकीन</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="6">
+    <BankName>बीड जी.म.स.बँक</BankName>
+    <BranchCode Code="48">
+      <BranchName>बीड जि.म.स.बँक लि.,शा.शिरुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="108">
+      <BranchName>बीड जी.म.स.बँक अशोकनगर</BranchName>
+    </BranchCode>
+    <BranchCode Code="109">
+      <BranchName>बीड जी.म.स.बँक बालेपीर</BranchName>
+    </BranchCode>
+    <BranchCode Code="110">
+      <BranchName>बीड जी.म.स.बँक मा.यार्ड बीड</BranchName>
+    </BranchCode>
+    <BranchCode Code="111">
+      <BranchName>बीड जी.म.स.बँक नाथापुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="112">
+      <BranchName>बीड जी.म.स.बँक शिरुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="113">
+      <BranchName>बीड जी.म.स.बँक अंमळनेर</BranchName>
+    </BranchCode>
+    <BranchCode Code="114">
+      <BranchName>बीड जी.म.स.बँक पाटोदा</BranchName>
+    </BranchCode>
+    <BranchCode Code="115">
+      <BranchName>बीड जी.म.स.बँक सावरगाव घाट</BranchName>
+    </BranchCode>
+    <BranchCode Code="118">
+      <BranchName>बीड जी.म.स.बँक,सिरसमार्ग</BranchName>
+    </BranchCode>
+    <BranchCode Code="121">
+      <BranchName>बीड जी.म.स.बँक मालेगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="122">
+      <BranchName>बीड जी.म.स.बँक गेवराई,</BranchName>
+    </BranchCode>
+    <BranchCode Code="123">
+      <BranchName>बीड जी.म.स.बँक तलवाडा,</BranchName>
+    </BranchCode>
+    <BranchCode Code="124">
+      <BranchName>बीड जी.म.स.बँक मादलमोही,</BranchName>
+    </BranchCode>
+    <BranchCode Code="125">
+      <BranchName>बीड जी.म.स.बँक,धोंडराई</BranchName>
+    </BranchCode>
+    <BranchCode Code="126">
+      <BranchName>बीड जी.म.स.बँक,लि.सिरसमार्ग</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="7">
+    <BankName>महाराष्ट्र ग्रामीण बँक</BankName>
+    <BranchCode Code="62">
+      <BranchName>महाराष्ट्र ग्रामीण बँक शा.वडीगोद्री</BranchName>
+    </BranchCode>
+    <BranchCode Code="63">
+      <BranchName>महाराष्ट्र ग्रामीण बँक शा.गोन्दी</BranchName>
+    </BranchCode>
+    <BranchCode Code="64">
+      <BranchName>महाराष्ट्र ग्रामीण बँक शा.तिर्थपुरी</BranchName>
+    </BranchCode>
+    <BranchCode Code="65">
+      <BranchName>महाराष्ट्र ग्रामीण बँक शा.कु.पिपंळगाव</BranchName>
+    </BranchCode>
+    <BranchCode Code="66">
+      <BranchName>महाराष्ट्र ग्रामीण बँक शा.गोलापांगरी</BranchName>
+    </BranchCode>
+    <BranchCode Code="132">
+      <BranchName>महाराष्ट्र ग्रामीण बँक, परभणी</BranchName>
+    </BranchCode>
+    <BranchCode Code="134">
+      <BranchName>महाराष्ट्र ग्रामीण बँक शाखा- गंगापुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="135">
+      <BranchName>महाराष्ट्र ग्रामीण बँक-वाळुज</BranchName>
+    </BranchCode>
+    <BranchCode Code="136">
+      <BranchName>महाराष्ट्र ग्रामीण बँक,शाखा- शेंदुरवादा</BranchName>
+    </BranchCode>
+    <BranchCode Code="142">
+      <BranchName>महाराष्ट्र ग्रामीण बँक शाखा-पाथ्री</BranchName>
+    </BranchCode>
+    <BranchCode Code="155">
+      <BranchName>महाराष्ट्र ग्रामीण बँक,शाखा -कातनेश्वर</BranchName>
+    </BranchCode>
+    <BranchCode Code="156">
+      <BranchName>महाराष्ट्र ग्रामीण बँक, केकरजवळा.-</BranchName>
+    </BranchCode>
+    <BranchCode Code="162">
+      <BranchName>महाराष्ट्र ग्रामीण बँक, पिंपळनेर</BranchName>
+    </BranchCode>
+    <BranchCode Code="164">
+      <BranchName>महाराष्ट्र ग्रामीण बँक,शाखा सिंगनापुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="192">
+      <BranchName>महाराष्ट्र ग्रामीण बँक- फुलंब्री</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="8">
+    <BankName>स्टेट बँक ऑफ इंडीया शाखा.पाथ्री</BankName>
+    <BranchCode Code="143">
+      <BranchName>स्टेट बँक ऑफ इंडीया शाखा.पाथ्री,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="9">
+    <BankName>परभणी जिल्हा मध्य.सह.बँक लि,</BankName>
+    <BranchCode Code="149">
+      <BranchName>परभणी जिल्हा मध्य.सह.बँक लि,,</BranchName>
+    </BranchCode>
+    <BranchCode Code="150">
+      <BranchName>परभणी जिल्हा मध्य.सह.बँक लि,पोखर्णी</BranchName>
+    </BranchCode>
+    <BranchCode Code="167">
+      <BranchName>परभणी जिल्हा मध्य.सह.बँक लि,मानवत .</BranchName>
+    </BranchCode>
+    <BranchCode Code="168">
+      <BranchName>परभणी जिल्हा मध्य.सह.बँक लि,शाखा आरळ.</BranchName>
+    </BranchCode>
+    <BranchCode Code="170">
+      <BranchName>परभणी जिल्हा मध्य.सह.बँक लि,शाखा परभणी.</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="17">
+    <BankName>बुलढाणा अर्बन को.आँप.क्रि.सो.</BankName>
+    <BranchCode Code="29">
+      <BranchName>बुलढाणा आर्बन को.आँ.बँक तिर्थपुरी</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="18">
+    <BankName>सागर सहकारी साखर का. बॅक लि.</BankName>
+    <BranchCode Code="120">
+      <BranchName>सागर सहकारी साखर का. बॅक लि., तिर्थपुरी</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="20">
+    <BankName>एस.बी.आय.शाखा.परभणी.</BankName>
+    <BranchCode Code="129">
+      <BranchName>एस.बी.आय.शाखा.परभणी.,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="22">
+    <BankName>औरंगाबाद जि.म.स.बँक लि.</BankName>
+    <BranchCode Code="138">
+      <BranchName>औरंगाबाद जि.म.सह. बँक लि,कायगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="174">
+      <BranchName>औरंगाबाद जि.म.स.बँक लि.पंढरपुर</BranchName>
+    </BranchCode>
+    <BranchCode Code="175">
+      <BranchName>औरंगाबाद जि.म.स.बँक लि,ढोरेगांव</BranchName>
+    </BranchCode>
+    <BranchCode Code="187">
+      <BranchName>औरंगाबाद जि.म.स.बँक लि., फुलाब्री</BranchName>
+    </BranchCode>
+    <BranchCode Code="202">
+      <BranchName>औरंगाबाद जि.म.स.बँक लि., ढाकेफळ</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="23">
+    <BankName>बँक ऑफ बडोदा</BankName>
+    <BranchCode Code="137">
+      <BranchName>बँक आँफ बडोदा शाखा- गंगापुर,</BranchName>
+    </BranchCode>
+    <BranchCode Code="184">
+      <BranchName>बँक ऑफ बडोदा, सिडको</BranchName>
+    </BranchCode>
+    <BranchCode Code="185">
+      <BranchName>बँक ऑफ बडोदा, गणोरी</BranchName>
+    </BranchCode>
+    <BranchCode Code="196">
+      <BranchName>बँक ऑफ बडोदा-सिडको</BranchName>
+    </BranchCode>
+    <BranchCode Code="204">
+      <BranchName>बँक ऑफ बडोदा, बिडकीन</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="25">
+    <BankName>गजानन नागरी सहकारी बँक</BankName>
+    <BranchCode Code="141">
+      <BranchName>गजानन नागरी सहकारी बँक, बीड</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="26">
+    <BankName>हिंगोली जिल्हा मध्य. सह.बँक लि.</BankName>
+    <BranchCode Code="159">
+      <BranchName>हिंगोली जिल्हा मध्य. सह.बँक लि., आरळ</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="27">
+    <BankName>एस.बी.आय</BankName>
+    <BranchCode Code="208">
+      <BranchName>एस.बी.आय, नांदगांव</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="28">
+    <BankName>स्टेट बँक ऑफ हैद्राबाद शाखा पुर्णा</BankName>
+    <BranchCode Code="165">
+      <BranchName>स्टेट बँक ऑफ हैद्राबाद शाखा पुर्णा,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="29">
+    <BankName>देबगीरी नागरी सहकारी बँक-फुलंब्री</BankName>
+    <BranchCode Code="172">
+      <BranchName>देबगीरी नागरी सहकारी बँक-फुलंब्री,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="30">
+    <BankName>देवगीरी नागरी सहकारी बँक</BankName>
+    <BranchCode Code="173">
+      <BranchName>देवगीरी नागरी सहकारी बँक, वाळुज</BranchName>
+    </BranchCode>
+    <BranchCode Code="193">
+      <BranchName>देवगीरी नागरी सहकारी बँक, फुलंब्री</BranchName>
+    </BranchCode>
+    <BranchCode Code="201">
+      <BranchName>देवगीरी नागरी सहकारी बँक-बिडकीन</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="31">
+    <BankName>बँक आँफ महाराष्ट्र</BankName>
+    <BranchCode Code="176">
+      <BranchName>बँक आँफ महाराष्ट्र,तुर्काबाद</BranchName>
+    </BranchCode>
+    <BranchCode Code="177">
+      <BranchName>बँक आँफ महाराष्ट्र,बिडकीन</BranchName>
+    </BranchCode>
+    <BranchCode Code="180">
+      <BranchName>बँक आँफ महाराष्ट्र-पाचोड</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="32">
+    <BankName>तुळजाभवानी अर्बन बँक-माजलगाव</BankName>
+    <BranchCode Code="183">
+      <BranchName>तुळजाभवानी अर्बन बँक-माजलगाव</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="33">
+    <BankName>बुलढाणा आरबन को.सो.म.फुलब्री</BankName>
+    <BranchCode Code="186">
+      <BranchName>बुलढाणा आरबन को.सो.म.फुलब्री, फुलाब्री</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="34">
+    <BankName>शिवाजी नागरी सहकारी बँक</BankName>
+    <BranchCode Code="198">
+      <BranchName>शिवाजी नागरी सहकारी बँक , पैठण</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="35">
+    <BankName>पंजाब नँशनल बँक</BankName>
+    <BranchCode Code="205">
+      <BranchName>पंजाब नँशनल बँक, बिडकीन</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="36">
+    <BankName>देना बँक</BankName>
+    <BranchCode Code="206">
+      <BranchName>देना बँक, बिडकीन</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="39">
+    <BankName>महाराष्ट्र ग्रामीण बँक शा.तलवडा</BankName>
+    <BranchCode Code="213">
+      <BranchName>महाराष्ट्र ग्रामीण बँक शा.तलवडा,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="40">
+    <BankName>श्री.छत्रपती राजश्री शाहु अर्बन को.बँक लि.बीड शा.माजलगाव</BankName>
+    <BranchCode Code="214">
+      <BranchName>श्री.छत्रपती राजश्री शाहु अर्बन को.बँक लि.बीड शा.माजलगाव,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="41">
+    <BankName>महाराष्ट्र ग्रामीण बँक शाखा-फुलंब्री</BankName>
+    <BranchCode Code="215">
+      <BranchName>महाराष्ट्र ग्रामीण बँक शाखा-फुलंब्री,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="43">
+    <BankName>कार्पोरेशन बँक शाखा-नांदगांव</BankName>
+    <BranchCode Code="216">
+      <BranchName>कार्पोरेशन बँक शाखा-नांदगांव,</BranchName>
+    </BranchCode>
+    <BranchCode Code="217">
+      <BranchName>कार्पोरेशन बँक शाखा-नांदगांव,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="44">
+    <BankName>स्टेट बँक आँफ हैद्राबाद शाखा-फुलंब्री</BankName>
+    <BranchCode Code="218">
+      <BranchName>स्टेट बँक आँफ हैद्राबाद शाखा-फुलंब्री,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="45">
+    <BankName>औरंगाबाद जि.म.सह.बँक शाखा.जातेगाव</BankName>
+    <BranchCode Code="219">
+      <BranchName>औरंगाबाद जि.म.सह.बँक शाखा.जातेगाव,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="46">
+    <BankName>शिवाजी नागरी सहकारी बँक शाखा बिडकिन</BankName>
+    <BranchCode Code="220">
+      <BranchName>शिवाजी नागरी सहकारी बँक शाखा बिडकिन, बिडकीन</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="47">
+    <BankName>औरंगाबाद /जालना ग्रामीन बँक</BankName>
+    <BranchCode Code="221">
+      <BranchName>औरंगाबाद /जालना ग्रामीन बँक, गंगापुर</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="48">
+    <BankName>स्टेट बँक आँफ हैद्राबाद शाखा शहागड</BankName>
+    <BranchCode Code="222">
+      <BranchName>स्टेट बँक आँफ हैद्राबाद शाखा शहागड,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="49">
+    <BankName>स्टेट बँक आँफ इंडीया शाखा महाकाळा</BankName>
+    <BranchCode Code="223">
+      <BranchName>स्टेट बँक आँफ इंडीया शाखा महाकाळा ,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="50">
+    <BankName>स्टेट बँक ऑफ इंडिया-</BankName>
+    <BranchCode Code="224">
+      <BranchName>स्टेट बँक ऑफ इंडिया शाखा गेवराई</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="51">
+    <BankName>स्टेट बँक आँफ इंडिया शाखा-नांदगांव</BankName>
+    <BranchCode Code="225">
+      <BranchName>स्टेट बँक आँफ इंडिया शाखा-नांदगांव,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="52">
+    <BankName>स्टेट बँक आँफ इंडीया शाखा वडीगोद्री</BankName>
+    <BranchCode Code="226">
+      <BranchName>स्टेट बँक आँफ इंडीया शाखा वडीगोद्री,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="53">
+    <BankName>दीनदयाळ नागरी सहकारी बँक मर्यादीत अंबाजोगाई शाखा.माजलगाव</BankName>
+    <BranchCode Code="227">
+      <BranchName>दीनदयाळ नागरी सहकारी बँक मर्यादीत अंबाजोगाई,शाखा.माजलगाव</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="54">
+    <BankName>महाराष्ट्र ग्रामीण बँक शाखा करमाड</BankName>
+    <BranchCode Code="228">
+      <BranchName>महाराष्ट्र ग्रामीण बँक शाखा करमाड,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="55">
+    <BankName>बुलढाना अर्बन बँक शाखा.बाजार सांवगी</BankName>
+    <BranchCode Code="229">
+      <BranchName>बुलढाना अर्बन बँक शाखा.बाजार सांवगी,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="56">
+    <BankName>महाराष्ट्र ग्रामीण बँक शाखा कन्नड</BankName>
+    <BranchCode Code="230">
+      <BranchName>महाराष्ट्र ग्रामीण बँक शाखा कन्नड,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="57">
+    <BankName>दि.औरंगाबाद जि.म.बँक.शाखा चापानेर</BankName>
+    <BranchCode Code="231">
+      <BranchName>दि.औरंगाबाद जि.म.बँक.शाखा चापानेर,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="58">
+    <BankName>देवगीरी नागरी सह.बँक शाखा कन्नड</BankName>
+    <BranchCode Code="232">
+      <BranchName>देवगीरी नागरी सह.बँक शाखा कन्नड,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="59">
+    <BankName>दि.औरगाबाद जि.म.सह.बँक शाखा हतनुर</BankName>
+    <BranchCode Code="233">
+      <BranchName>दि.औरगाबाद जि.म.सह.बँक शाखा हतनुर,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="60">
+    <BankName>स्टेट बँक आँफ इंडीया शाखा वेरूळ</BankName>
+    <BranchCode Code="234">
+      <BranchName>स्टेट बँक आँफ इंडीया शाखा वेरूळ,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="61">
+    <BankName>दि.औरंगाबाद जि.म.सह.बँक शाखा वासडी</BankName>
+    <BranchCode Code="235">
+      <BranchName>दि.औरंगाबाद जि.म.सह.बँक शाखा वासडी,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="62">
+    <BankName>स्टेट बँक आँफ इंडीया शाखा पिशोर</BankName>
+    <BranchCode Code="236">
+      <BranchName>स्टेट बँक आँफ इंडीया शाखा पिशोर,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="63">
+    <BankName>बँक आँफ बडोदा शाखा गारखेडा</BankName>
+    <BranchCode Code="237">
+      <BranchName>बँक आँफ बडोदा शाखा गारखेडा,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="65">
+    <BankName>स्टेट बँक आँफ हैद्राबाद शाखा डोंगरगाव</BankName>
+    <BranchCode Code="238">
+      <BranchName>स्टेट बँक आँफ हैद्राबाद शाखा डोंगरगाव,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="66">
+    <BankName>जालना जि.म.सह.बँक लि.शाखा-शहागड</BankName>
+    <BranchCode Code="239">
+      <BranchName>जालना जि.म.सह.बँक लि.शाखा-शहागड, शहागड</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="67">
+    <BankName>स्टेट बँक आँफ इंडीया शाखा ऊमापुर</BankName>
+    <BranchCode Code="240">
+      <BranchName>स्टेट बँक आँफ इंडीया शाखा ऊमापुर,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="68">
+    <BankName>अहमदनगर जिल्हा मध्य.सह.बँक लि. बालमटाकळी</BankName>
+    <BranchCode Code="241">
+      <BranchName>अहमदनगर जिल्हा मध्य.सह.बँक लि. बालमटाकळी,</BranchName>
+    </BranchCode>
+  </BankCode>
+  <BankCode Code="72">
+    <BankName>बँक आँफ इंडिया शाखा गारखेडा</BankName>
+    <BranchCode Code="246">
+      <BranchName>बँक आँफ इंडिया शाखा गारखेडा,</BranchName>
+    </BranchCode>
+  </BankCode>
+</Bank>
