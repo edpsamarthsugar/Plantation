@@ -407,9 +407,6 @@
     <VillageCode Code="2073">
       <VillageName>वडी शिराढोण - अंबड</VillageName>
     </VillageCode>
-    <VillageCode Code="2078">
-      <VillageName>कृष्णापुरवाडी</VillageName>
-    </VillageCode>
     <VillageCode Code="2079">
       <VillageName>राहुवाडी</VillageName>
     </VillageCode>
@@ -822,6 +819,9 @@
     </VillageCode>
     <VillageCode Code="2077">
       <VillageName>आवलगाव खु.</VillageName>
+    </VillageCode>
+    <VillageCode Code="2078">
+      <VillageName>कृष्णापुरवाडी</VillageName>
     </VillageCode>
     <VillageCode Code="2080">
       <VillageName>कंडारी परतुर</VillageName>
