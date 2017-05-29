@@ -13562,6 +13562,18 @@
         <SubVillageName>-</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="2458">
+      <VillageName>सुजानपुर (गेवराई)</VillageName>
+      <SubVillageCode Code="1">
+        <SubVillageName>-</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="2459">
+      <VillageName>दगडगाव (गेवराई)</VillageName>
+      <SubVillageCode Code="1">
+        <SubVillageName>-</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
   </GatCode>
   <GatCode Code="10">
     <GatName>गंगामाई कारखाना</GatName>

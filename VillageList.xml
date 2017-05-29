@@ -6785,6 +6785,12 @@
     <VillageCode Code="2457">
       <VillageName>एरंडगाव (गेवराई)</VillageName>
     </VillageCode>
+    <VillageCode Code="2458">
+      <VillageName>सुजानपुर (गेवराई)</VillageName>
+    </VillageCode>
+    <VillageCode Code="2459">
+      <VillageName>दगडगाव (गेवराई)</VillageName>
+    </VillageCode>
   </GatCode>
   <GatCode Code="10">
     <VillageCode Code="1087">
