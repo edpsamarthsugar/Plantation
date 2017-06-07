@@ -95,6 +95,11 @@
     <password>knm1</password>
     <level>3</level>
   </loginid>
+  <loginid id="10789">
+    <username>-</username>
+    <password>csd1</password>
+    <level>2</level>
+  </loginid>
   <loginid id="582">
     <username>-</username>
     <password>582</password>
