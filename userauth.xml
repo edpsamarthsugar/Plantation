@@ -130,4 +130,9 @@
     <password>9696</password>
     <level>3</level>
   </loginid>
+  <loginid id="3135">
+    <username>-</username>
+    <password>kvb1</password>
+    <level>3</level>
+  </loginid>
 </users>

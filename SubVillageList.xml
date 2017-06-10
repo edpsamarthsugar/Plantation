@@ -2505,7 +2505,7 @@
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="358">
-      <VillageName>आपेगाव -पै.</VillageName>
+      <VillageName>आपेगाव (ज्ञानेश्वर)-(पैठण) </VillageName>
       <SubVillageCode Code="1">
         <SubVillageName>-</SubVillageName>
       </SubVillageCode>
@@ -2709,7 +2709,7 @@
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="401">
-      <VillageName>श्रेष्ठी(परतुर)</VillageName>
+      <VillageName>श्रेष्ठी (परतुर) (बंद)</VillageName>
       <SubVillageCode Code="1">
         <SubVillageName>-</SubVillageName>
       </SubVillageCode>
@@ -3351,7 +3351,7 @@
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="531">
-      <VillageName>आपेगाव (ज्ञा)</VillageName>
+      <VillageName>आपेगाव (ज्ञा) (बंद)</VillageName>
       <SubVillageCode Code="1">
         <SubVillageName>-</SubVillageName>
       </SubVillageCode>
@@ -3945,7 +3945,7 @@
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="636">
-      <VillageName>पंचाळेश्वर (गेवराई)</VillageName>
+      <VillageName>पांचाळेश्वर (गेवराई)</VillageName>
       <SubVillageCode Code="1">
         <SubVillageName>-</SubVillageName>
       </SubVillageCode>
@@ -4629,7 +4629,7 @@
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="754">
-      <VillageName>पांचाळेश्वर</VillageName>
+      <VillageName>पांचाळेश्वर (गेवराई) बंद</VillageName>
       <SubVillageCode Code="1">
         <SubVillageName>-</SubVillageName>
       </SubVillageCode>
@@ -4659,7 +4659,7 @@
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="759">
-      <VillageName>पांचाळेश्वर</VillageName>
+      <VillageName>पांचाळेश्वर (गेवराई) बंद</VillageName>
       <SubVillageCode Code="1">
         <SubVillageName>-</SubVillageName>
       </SubVillageCode>
@@ -7623,7 +7623,7 @@
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1454">
-      <VillageName>पांगुळगाव (गेवराई)</VillageName>
+      <VillageName>पांगुळगाव (गेवराई) बंद</VillageName>
       <SubVillageCode Code="1">
         <SubVillageName>-</SubVillageName>
       </SubVillageCode>
@@ -7953,7 +7953,7 @@
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1509">
-      <VillageName>आळंद (जाफ्राबाद)</VillageName>
+      <VillageName>आळंद (जाफ्राबाद) (बंद)</VillageName>
       <SubVillageCode Code="1">
         <SubVillageName>-</SubVillageName>
       </SubVillageCode>
@@ -9633,7 +9633,7 @@
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1789">
-      <VillageName>बालानगर-गेटकेन</VillageName>
+      <VillageName>बालानगर-(पैठण)</VillageName>
       <SubVillageCode Code="1">
         <SubVillageName>-</SubVillageName>
       </SubVillageCode>
@@ -10443,7 +10443,7 @@
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1924">
-      <VillageName>राहेरी(गेवराई)</VillageName>
+      <VillageName>राहेरी (गेवराई) बंद </VillageName>
       <SubVillageCode Code="1">
         <SubVillageName>-</SubVillageName>
       </SubVillageCode>
@@ -13570,6 +13570,12 @@
     </VillageCode>
     <VillageCode Code="2459">
       <VillageName>दगडगाव (गेवराई)</VillageName>
+      <SubVillageCode Code="1">
+        <SubVillageName>-</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="2460">
+      <VillageName>वाजोळा (मंठा)</VillageName>
       <SubVillageCode Code="1">
         <SubVillageName>-</SubVillageName>
       </SubVillageCode>
