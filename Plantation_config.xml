@@ -261,4 +261,13 @@
     <VerificationData>https://raw.githubusercontent.com/edpsamarthsugar/Plantation/master/865156033033519_VD.xml</VerificationData>
     <UCode>70159</UCode>
   </UserCode>
+  <UserCode Code="358224076348717">
+    <UserName>---</UserName>
+    <Range>39000</Range>
+    <FarmerList>https://raw.githubusercontent.com/edpsamarthsugar/Plantation/master/FarmerList.xml</FarmerList>
+    <GatList>https://raw.githubusercontent.com/edpsamarthsugar/Plantation/master/GatList.xml</GatList>
+    <VillageList>https://raw.githubusercontent.com/edpsamarthsugar/Plantation/master/VillageList.xml</VillageList>
+    <VerificationData>https://raw.githubusercontent.com/edpsamarthsugar/Plantation/master/358224076348717_VD.xml</VerificationData>
+    <UCode>10785</UCode>
+  </UserCode>
 </User>

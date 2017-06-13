@@ -145,4 +145,9 @@
     <password>kpp1</password>
     <level>3</level>
   </loginid>
+  <loginid id="10785">
+    <username>-</username>
+    <password>vss1</password>
+    <level>2</level>
+  </loginid>
 </users>
