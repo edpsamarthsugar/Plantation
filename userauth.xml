@@ -140,4 +140,9 @@
     <password>kvb1</password>
     <level>3</level>
   </loginid>
+  <loginid id="70159">
+    <username>-</username>
+    <password>kpp1</password>
+    <level>3</level>
+  </loginid>
 </users>
