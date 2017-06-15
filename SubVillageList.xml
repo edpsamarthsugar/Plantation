@@ -13580,6 +13580,18 @@
         <SubVillageName>-</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="2461">
+      <VillageName>ढोकसाळ (तांडा) (आष्टी)</VillageName>
+      <SubVillageCode Code="1">
+        <SubVillageName>-</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
+    <VillageCode Code="2462">
+      <VillageName>बाणेगाव</VillageName>
+      <SubVillageCode Code="1">
+        <SubVillageName>-</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
   </GatCode>
   <GatCode Code="10">
     <GatName>गंगामाई कारखाना</GatName>

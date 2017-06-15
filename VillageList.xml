@@ -6794,6 +6794,12 @@
     <VillageCode Code="2460">
       <VillageName>वाजोळा (मंठा)</VillageName>
     </VillageCode>
+    <VillageCode Code="2461">
+      <VillageName>ढोकसाळ (तांडा) (आष्टी)</VillageName>
+    </VillageCode>
+    <VillageCode Code="2462">
+      <VillageName>बाणेगाव</VillageName>
+    </VillageCode>
   </GatCode>
   <GatCode Code="10">
     <VillageCode Code="1087">
