@@ -3,7 +3,7 @@
   <loginid id="44445">
     <username>-</username>
     <password>pvs1</password>
-    <level>1</level>
+    <level>3</level>
   </loginid>
   <loginid id="9507">
     <username>-</username>
@@ -88,7 +88,12 @@
   <loginid id="10699">
     <username>-</username>
     <password>rvr1</password>
-    <level>1</level>
+    <level>3</level>
+  </loginid>
+  <loginid id="436">
+    <username>-</username>
+    <password>wpv1</password>
+    <level>3</level>
   </loginid>
   <loginid id="3108">
     <username>-</username>
@@ -148,6 +153,6 @@
   <loginid id="10785">
     <username>-</username>
     <password>vss11</password>
-    <level>1</level>
+    <level>3</level>
   </loginid>
 </users>
