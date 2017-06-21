@@ -8,7 +8,7 @@
   <loginid id="9507">
     <username>-</username>
     <password>sir1</password>
-    <level>2</level>
+    <level>3</level>
   </loginid>
   <loginid id="1201">
     <username>-</username>
@@ -73,11 +73,16 @@
   <loginid id="3164">
     <username>-</username>
     <password>cra1</password>
-    <level>2</level>
+    <level>3</level>
   </loginid>
   <loginid id="1244">
     <username>-</username>
     <password>pnr1</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="1289">
+    <username>-</username>
+    <password>csv1</password>
     <level>3</level>
   </loginid>
   <loginid id="488">
@@ -88,7 +93,7 @@
   <loginid id="569">
     <username>-</username>
     <password>krn1</password>
-    <level>1</level>
+    <level>3</level>
   </loginid>
   <loginid id="10699">
     <username>-</username>
@@ -113,7 +118,7 @@
   <loginid id="10789">
     <username>-</username>
     <password>csd1</password>
-    <level>2</level>
+    <level>3</level>
   </loginid>
   <loginid id="582">
     <username>-</username>
@@ -123,11 +128,6 @@
   <loginid id="50001">
     <username>-</username>
     <password>50001</password>
-    <level>2</level>
-  </loginid>
-  <loginid id="44445">
-    <username>-</username>
-    <password>pvs1</password>
     <level>2</level>
   </loginid>
   <loginid id="50002">
