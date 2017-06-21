@@ -5,6 +5,11 @@
     <password>pvs1</password>
     <level>3</level>
   </loginid>
+  <loginid id="448">
+    <username>-</username>
+    <password>jhg1</password>
+    <level>3</level>
+  </loginid>
   <loginid id="9507">
     <username>-</username>
     <password>sir1</password>
