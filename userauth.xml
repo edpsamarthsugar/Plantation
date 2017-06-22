@@ -165,4 +165,9 @@
     <password>vss11</password>
     <level>3</level>
   </loginid>
+  <loginid id="432">
+    <username>-</username>
+    <password>kal1</password>
+    <level>3</level>
+  </loginid>
 </users>
