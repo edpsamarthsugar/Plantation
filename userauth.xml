@@ -125,6 +125,11 @@
     <password>csd1</password>
     <level>3</level>
   </loginid>
+  <loginid id="490">
+    <username>-</username>
+    <password>dsd1</password>
+    <level>3</level>
+  </loginid>
   <loginid id="582">
     <username>-</username>
     <password>582</password>
