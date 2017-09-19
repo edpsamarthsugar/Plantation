@@ -4,19 +4,19 @@
     <VarietyName>CO-740</VarietyName>
   </VarietyCode>
   <VarietyCode Code="2">
-    <VarietyName>CoC-671</VarietyName>
+    <VarietyName>COC-671</VarietyName>
   </VarietyCode>
   <VarietyCode Code="3">
     <VarietyName>CO-7219</VarietyName>
   </VarietyCode>
   <VarietyCode Code="4">
-    <VarietyName>Co-419</VarietyName>
+    <VarietyName>CO-419</VarietyName>
   </VarietyCode>
   <VarietyCode Code="5">
     <VarietyName>CO-8021</VarietyName>
   </VarietyCode>
   <VarietyCode Code="6">
-    <VarietyName>CoM-7125</VarietyName>
+    <VarietyName>COM-7125</VarietyName>
   </VarietyCode>
   <VarietyCode Code="7">
     <VarietyName>CO-8011</VarietyName>
@@ -43,13 +43,13 @@
     <VarietyName>CO-94012</VarietyName>
   </VarietyCode>
   <VarietyCode Code="15">
-    <VarietyName>VSI-9805</VarietyName>
+    <VarietyName>COVSI-9805</VarietyName>
   </VarietyCode>
   <VarietyCode Code="16">
-    <VarietyName>CoM-265</VarietyName>
+    <VarietyName>COM-265</VarietyName>
   </VarietyCode>
   <VarietyCode Code="17">
-    <VarietyName>VSI-03102</VarietyName>
+    <VarietyName>COVSI-03102</VarietyName>
   </VarietyCode>
   <VarietyCode Code="18">
     <VarietyName>VSI-0309</VarietyName>
@@ -76,6 +76,6 @@
     <VarietyName>VSI-SEED</VarietyName>
   </VarietyCode>
   <VarietyCode Code="26">
-    <VarietyName>Vsi-08005</VarietyName>
+    <VarietyName>VSI-08005</VarietyName>
   </VarietyCode>
 </CaneVariety>
