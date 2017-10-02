@@ -90,6 +90,21 @@
     <password>csv1</password>
     <level>3</level>
   </loginid>
+  <loginid id="439">
+    <username>-</username>
+    <password>ssg1</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="1293">
+    <username>-</username>
+    <password>uds1</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="10503">
+    <username>-</username>
+    <password>ksd1</password>
+    <level>3</level>
+  </loginid>
   <loginid id="488">
     <username>-</username>
     <password>pum1</password>
@@ -173,6 +188,11 @@
   <loginid id="432">
     <username>-</username>
     <password>kal1</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="10756">
+    <username>-</username>
+    <password>dgr1</password>
     <level>3</level>
   </loginid>
 </users>
