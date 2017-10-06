@@ -120,6 +120,11 @@
     <password>pvs</password>
     <level>1</level>
   </loginid>
+  <loginid id="1237">
+    <username>-</username>
+    <password>zva1</password>
+    <level>3</level>
+  </loginid>
   <loginid id="488">
     <username>-</username>
     <password>pum1</password>
