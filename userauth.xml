@@ -115,6 +115,11 @@
     <password>wak1</password>
     <level>3</level>
   </loginid>
+  <loginid id="2015">
+    <username>-</username>
+    <password>pvs</password>
+    <level>3</level>
+  </loginid>
   <loginid id="488">
     <username>-</username>
     <password>pum1</password>
