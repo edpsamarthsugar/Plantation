@@ -160,6 +160,11 @@
     <password>tpm1</password>
     <level>3</level>
   </loginid>
+  <loginid id="1300">
+    <username>-</username>
+    <password>csa11</password>
+    <level>3</level>
+  </loginid>
   <loginid id="3108">
     <username>-</username>
     <password>3108</password>
