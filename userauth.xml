@@ -190,6 +190,11 @@
     <password>mkr</password>
     <level>3</level>
   </loginid>
+  <loginid id="1813">
+    <username>-</username>
+    <password>kbn11</password>
+    <level>3</level>
+  </loginid>
   <loginid id="582">
     <username>-</username>
     <password>582</password>
