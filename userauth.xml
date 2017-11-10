@@ -15,6 +15,11 @@
     <password>jve1</password>
     <level>3</level>
   </loginid>
+  <loginid id="3130">
+    <username>-</username>
+    <password>cke11</password>
+    <level>3</level>
+  </loginid>
   <loginid id="9507">
     <username>-</username>
     <password>sir1</password>
