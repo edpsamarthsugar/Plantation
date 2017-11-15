@@ -175,6 +175,16 @@
     <password>tpr11</password>
     <level>3</level>
   </loginid>
+  <loginid id="3131">
+    <username>-</username>
+    <password>gbd11</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="70966">
+    <username>-</username>
+    <password>brp11</password>
+    <level>3</level>
+  </loginid>
   <loginid id="3108">
     <username>-</username>
     <password>3108</password>
