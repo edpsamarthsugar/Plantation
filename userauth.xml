@@ -215,6 +215,11 @@
     <password>kbn11</password>
     <level>3</level>
   </loginid>
+  <loginid id="555">
+    <username>-</username>
+    <password>tss11</password>
+    <level>3</level>
+  </loginid>
   <loginid id="582">
     <username>-</username>
     <password>582</password>
