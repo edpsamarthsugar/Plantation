@@ -67,7 +67,7 @@
     <VarietyName>Co.M.261</VarietyName>
   </VarietyCode>
   <VarietyCode Code="23">
-    <VarietyName>91010</VarietyName>
+    <VarietyName>Co-91010</VarietyName>
   </VarietyCode>
   <VarietyCode Code="24">
     <VarietyName>MS.10001</VarietyName>
@@ -77,5 +77,8 @@
   </VarietyCode>
   <VarietyCode Code="26">
     <VarietyName>VSI-08005</VarietyName>
+  </VarietyCode>
+  <VarietyCode Code="27">
+    <VarietyName>Uncertified</VarietyName>
   </VarietyCode>
 </CaneVariety>
