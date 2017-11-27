@@ -130,6 +130,11 @@
     <password>zva1</password>
     <level>3</level>
   </loginid>
+  <loginid id="1821">
+    <username>-</username>
+    <password>smd11</password>
+    <level>3</level>
+  </loginid>
   <loginid id="488">
     <username>-</username>
     <password>pum1</password>
