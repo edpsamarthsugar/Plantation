@@ -25,6 +25,11 @@
     <password>mrn11</password>
     <level>3</level>
   </loginid>
+  <loginid id="1213">
+    <username>-</username>
+    <password>ksm11</password>
+    <level>3</level>
+  </loginid>
   <loginid id="9507">
     <username>-</username>
     <password>sir1</password>
