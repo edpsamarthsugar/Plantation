@@ -315,4 +315,9 @@
     <password>iab11</password>
     <level>3</level>
   </loginid>
+  <loginid id="55555">
+    <username>-</username>
+    <password>55555</password>
+    <level>3</level>
+  </loginid>
 </users>
