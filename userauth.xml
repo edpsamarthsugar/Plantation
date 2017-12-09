@@ -255,6 +255,11 @@
     <password>ssk11</password>
     <level>3</level>
   </loginid>
+  <loginid id="1819">
+    <username>-</username>
+    <password>bbp11</password>
+    <level>3</level>
+  </loginid>
   <loginid id="582">
     <username>-</username>
     <password>582</password>
