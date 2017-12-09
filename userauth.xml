@@ -250,6 +250,11 @@
     <password>ndn11</password>
     <level>1</level>
   </loginid>
+  <loginid id="1818">
+    <username>-</username>
+    <password>ssk11</password>
+    <level>3</level>
+  </loginid>
   <loginid id="582">
     <username>-</username>
     <password>582</password>
