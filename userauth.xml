@@ -330,4 +330,9 @@
     <password>55555</password>
     <level>3</level>
   </loginid>
+  <loginid id="1302">
+    <username>-</username>
+    <password>pkn11</password>
+    <level>3</level>
+  </loginid>
 </users>
