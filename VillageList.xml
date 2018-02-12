@@ -3308,6 +3308,9 @@
     <VillageCode Code="1086">
       <VillageName>रांजनगांव(नेवासा)</VillageName>
     </VillageCode>
+    <VillageCode Code="1089">
+      <VillageName>चांगतपुरी-आष्टी</VillageName>
+    </VillageCode>
     <VillageCode Code="1159">
       <VillageName>गोंदी(गेवराई)</VillageName>
     </VillageCode>
@@ -5169,7 +5172,7 @@
       <VillageName>गोडवनतांडा-गेटकेन</VillageName>
     </VillageCode>
     <VillageCode Code="1905">
-      <VillageName>तोंडळी--गेटकेन</VillageName>
+      <VillageName>तोंडळी-(जाफ्राबाद)-</VillageName>
     </VillageCode>
     <VillageCode Code="1906">
       <VillageName>मुदखेडा-गेटकेन</VillageName>
@@ -6807,9 +6810,6 @@
     </VillageCode>
     <VillageCode Code="1088">
       <VillageName>सायगाव-गंगामाई</VillageName>
-    </VillageCode>
-    <VillageCode Code="1089">
-      <VillageName>चांगतपुरी-गंगामाई</VillageName>
     </VillageCode>
     <VillageCode Code="1090">
       <VillageName>जेऊर है-गंगामाई</VillageName>

@@ -6608,6 +6608,12 @@
         <SubVillageName>-</SubVillageName>
       </SubVillageCode>
     </VillageCode>
+    <VillageCode Code="1089">
+      <VillageName>चांगतपुरी-आष्टी</VillageName>
+      <SubVillageCode Code="1">
+        <SubVillageName>-</SubVillageName>
+      </SubVillageCode>
+    </VillageCode>
     <VillageCode Code="1159">
       <VillageName>गोंदी(गेवराई)</VillageName>
       <SubVillageCode Code="1">
@@ -10329,7 +10335,7 @@
       </SubVillageCode>
     </VillageCode>
     <VillageCode Code="1905">
-      <VillageName>तोंडळी--गेटकेन</VillageName>
+      <VillageName>तोंडळी-(जाफ्राबाद)-</VillageName>
       <SubVillageCode Code="1">
         <SubVillageName>-</SubVillageName>
       </SubVillageCode>
@@ -13603,12 +13609,6 @@
     </VillageCode>
     <VillageCode Code="1088">
       <VillageName>सायगाव-गंगामाई</VillageName>
-      <SubVillageCode Code="1">
-        <SubVillageName>-</SubVillageName>
-      </SubVillageCode>
-    </VillageCode>
-    <VillageCode Code="1089">
-      <VillageName>चांगतपुरी-गंगामाई</VillageName>
       <SubVillageCode Code="1">
         <SubVillageName>-</SubVillageName>
       </SubVillageCode>
