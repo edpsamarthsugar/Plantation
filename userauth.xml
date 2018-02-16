@@ -210,6 +210,11 @@
     <password>psn11</password>
     <level>3</level>
   </loginid>
+  <loginid id="103">
+    <username>-</username>
+    <password>ksd11</password>
+    <level>3</level>
+  </loginid>
   <loginid id="3108">
     <username>-</username>
     <password>3108</password>
