@@ -275,6 +275,11 @@
     <password>sathe</password>
     <level>3</level>
   </loginid>
+  <loginid id="71219">
+    <username>-</username>
+    <password>bdm11</password>
+    <level>3</level>
+  </loginid>
   <loginid id="582">
     <username>-</username>
     <password>582</password>
